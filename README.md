@@ -4,13 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+In This Application I Used :
+> MVVM
+> Dio
+> Pokemon Api
+> Bloc(cubit) State Mangement
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Images :
+![Poke3](https://github.com/ZiadAhmedHelmy/Pokemon_app/assets/145056091/b53d80ed-aa6a-4323-b76e-8a8a22c5ea34)
+![poke2](https://github.com/ZiadAhmedHelmy/Pokemon_app/assets/145056091/2c54e0c8-d51e-416e-922a-54bd38566407)
+![Poke1](https://github.com/ZiadAhmedHelmy/Pokemon_app/assets/145056091/65e92835-8ee0-4609-b948-d8e5f1cfc7b3)
